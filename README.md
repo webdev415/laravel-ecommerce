@@ -3,14 +3,14 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/intelligo-systems/laravel-ecommerce/issues">
-        <img src="https://img.shields.io/github/issues/intelligo-systems/laravel-ecommerce.svg"
+    <a href="https://github.com/webdev415/laravel-ecommerce/issues">
+        <img src="https://img.shields.io/github/issues/webdev415/laravel-ecommerce.svg"
             alt="Issues"></a>
-     <a href="https://github.com/intelligo-systems/laravel-ecommerce/fork">
-        <img src="https://img.shields.io/github/forks/intelligo-systems/laravel-ecommerce.svg?style=social&label=Fork"
+     <a href="https://github.com/webdev415/laravel-ecommerce/fork">
+        <img src="https://img.shields.io/github/forks/webdev415/laravel-ecommerce.svg?style=social&label=Fork"
             alt="Forks"></a>
-    <a href="https://github.com/intelligo-systems/laravel-ecommerce/stargazers">
-        <img src="https://img.shields.io/github/stars/intelligo-systems/laravel-ecommerce.svg?style=social&label=Stars"
+    <a href="https://github.com/webdev415/laravel-ecommerce/stargazers">
+        <img src="https://img.shields.io/github/stars/webdev415/laravel-ecommerce.svg?style=social&label=Stars"
             alt="Stars"></a>
     <a href="https://github.com/tortuvshin/">
         <img src="https://img.shields.io/github/followers/tortuvshin.svg?style=social&label=Follow"
@@ -74,7 +74,7 @@ This is a e-commerce platform I made mostly using Laravel 5.4
 Clone repo
 
 ```
-git clone https://github.com/intelligo-systems/laravel-ecommerce.git
+git clone https://github.com/webdev415/laravel-ecommerce.git
 ```
 
 Install Composer
@@ -100,7 +100,7 @@ NPM dependencies
 npm install
 ```
 
-Using Laravel Mix 
+Using Laravel Mix
 
 ```
 npm run dev
@@ -123,19 +123,12 @@ Generating a New Application Key
 php artisan key:generate
 ```
 
-## Contributors
-
-You may contribute in several ways like creating new features, fixing bugs, improving documentation and examples
-or translating any document here to your language. [Find more information in CONTRIBUTING.md](CONTRIBUTING.md).
-<a href="https://github.com/intelligo-systems/laravel-ecommerce/graphs/contributors">Contributors</a>
-
-[![](https://sourcerer.io/fame/tortuvshin/opengineer/laravel-ecommerce/images/0)](https://sourcerer.io/fame/tortuvshin/opengineer/laravel-ecommerce/links/0)[![](https://sourcerer.io/fame/tortuvshin/opengineer/laravel-ecommerce/images/1)](https://sourcerer.io/fame/tortuvshin/opengineer/laravel-ecommerce/links/1)[![](https://sourcerer.io/fame/tortuvshin/opengineer/laravel-ecommerce/images/2)](https://sourcerer.io/fame/tortuvshin/opengineer/laravel-ecommerce/links/2)[![](https://sourcerer.io/fame/tortuvshin/opengineer/laravel-ecommerce/images/3)](https://sourcerer.io/fame/tortuvshin/opengineer/laravel-ecommerce/links/3)[![](https://sourcerer.io/fame/tortuvshin/opengineer/laravel-ecommerce/images/4)](https://sourcerer.io/fame/tortuvshin/opengineer/laravel-ecommerce/links/4)[![](https://sourcerer.io/fame/tortuvshin/opengineer/laravel-ecommerce/images/5)](https://sourcerer.io/fame/tortuvshin/opengineer/laravel-ecommerce/links/5)[![](https://sourcerer.io/fame/tortuvshin/opengineer/laravel-ecommerce/images/6)](https://sourcerer.io/fame/tortuvshin/opengineer/laravel-ecommerce/links/6)[![](https://sourcerer.io/fame/tortuvshin/opengineer/laravel-ecommerce/images/7)](https://sourcerer.io/fame/tortuvshin/opengineer/laravel-ecommerce/links/7)
 
 ## License
 
 > Copyright (C) 2019 Intelligo Systems.  
 > In this project is open-sourced software licensed under the [MIT](https://opensource.org/licenses/MIT) license.  
-> (See the [LICENSE](https://github.com/intelligo-systems/laravel-ecommerce/blob/master/LICENSE) file for the whole license text.)
+> (See the [LICENSE](https://github.com/webdev415/laravel-ecommerce/blob/master/LICENSE) file for the whole license text.)
 
 **[⬆ back to top](#laravel-ecommerce-platform)**
 
@@ -143,5 +136,4 @@ or translating any document here to your language. [Find more information in CON
 [Requirements]:#requirements
 [Install]:#install
 [How to setting]:#how-to-setting
-[Contributors]:#contributors
 [License]:#license
